@@ -1,5 +1,5 @@
 # Expense-Management-System-VBA-Excel-Project-
-1. Track daily expense records 
+1. Track daily expense 
 2. Give analytic representation of the data
 3. Ensure central application allow importation from various data entry tool
 
