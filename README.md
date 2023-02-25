@@ -4,7 +4,7 @@ Objectives & Requirements
 
 1. Track daily expense 
 2. Give analytic representation of the data
-3. Ensuring a central application can allow importation from various data entry sources
+3. Ensuring a central application can allow importation from various data entry sources for reporting and analysis
 
 **Issues, Analysis and Findings**
 
