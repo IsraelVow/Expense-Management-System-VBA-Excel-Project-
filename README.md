@@ -1,7 +1,10 @@
 # Expense-Management-System-VBA-Excel-Project-
+
+Objectives & Requirements
+
 1. Track daily expense 
 2. Give analytic representation of the data
-3. Ensure central application can allow importation from various data entry sources
+3. Ensuring a central application can allow importation from various data entry sources
 
 **Issues, Analysis and Findings**
 
