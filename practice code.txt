@@ -1,0 +1,62 @@
+
+
+.cmb_name.Value = ""
+    .cmb_dptm.Value = ""
+    .cmb_shift.Value = ""
+    .cmb_punct.Value = ""
+    .cmb_dressc.Value = ""
+    .cmb_custR.Value = ""
+    .cmb_reckeeping.Value = ""
+
+
+
+Sub ChangeShape(ShapeName As String)
+
+Dim CurrentShape As Shape
+Dim FName As String
+
+FName = ThisWorkbook.Path & "\temp.gif"
+
+Set CurrentShape = ThisWorkbook.Sheets("Summary").ShapeObjects(ShapeName).Shape
+
+CurrentShape.Export Filename:=FName, Filtername:="GIF"
+
+frm_expense.imgShape.Picture = LoadPicture(FName)
+
+
+
+'Validating entry for emp. name
+    
+    Dim Wk As String
+    
+    Wk = frm_expense.cbo_Category.Value
+    
+    If Wk = "" Then
+    MsgBox "Please enter category of expense !", vbOKOnly + vbCritical, "Error"
+    Exit Sub
+    
+    End If
+    
+    'Validating entry for shift
+
+    Dim BM As String
+    
+    BM = frm_expense.cbo_expensename.Value
+    
+    If BM = "" Then
+    MsgBox "Please enter expense name!", vbOKOnly + vbCritical, "Error"
+    Exit Sub
+    
+    End If
+    
+    'Validating entry for Dpmt
+    
+    Dim Ab As String
+    
+    Ab = frm_expense.txt_amount.Value
+    
+    If Ab = "" Then
+    MsgBox "Please enter expense amount!", vbOKOnly + vbCritical, "Error"
+    Exit Sub
+    
+    End If
