@@ -1,6 +1,6 @@
 # Expense Management System Dataset
 
-[Data used for Expense Management System ](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Dataset.xlsx)
+[Click to access Data used for Expense Management System ](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Dataset.xlsx)
 
 ## Overview
 
@@ -59,8 +59,8 @@ The Expense Management System Dataset is open-source and licensed under [MIT Lic
 
 ## Feedback
 
-If you have any feedback, questions, or suggestions regarding the dataset or the Expense Management System project, please feel free to [contact us](mailto:email@example.com). Your input is highly valuable and helps us improve the project.
+If you have any feedback, questions, or suggestions regarding the dataset or the Expense Management System project, please feel free to [contact us](mailto:Israeljvow@gmail.com). Your input is highly valuable and helps us improve the project.
 
 ---
 
-By [Your Name](link-to-github-profile) | LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
+By [Israel Josiah](https://www.linkedin.com/in/israeljosiah/) | LinkedIn: [Israel Josiah](https://www.linkedin.com/in/israeljosiah/)
