@@ -72,7 +72,7 @@ The Expense Management System is open-source and licensed under [MIT License](li
 
 ## Feedback and Contributions
 
-We welcome your feedback and contributions to further improve the Expense Management System. Feel free to submit issues or pull requests on our [GitHub repository](link-to-github-repo).
+We welcome your feedback and contributions to further improve the Expense Management System. Feel free to submit issues or pull requests on our [GitHub repository](https://github.com/IsraelVow?tab=repositories).
 
 ## Acknowledgments
 
