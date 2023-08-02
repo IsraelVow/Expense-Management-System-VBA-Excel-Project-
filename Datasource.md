@@ -1,6 +1,6 @@
 # Expense Management System Dataset
 
-![Expense Management System](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Dataset.xlsx)
+[Data used for Expense Management System ](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Dataset.xlsx)
 
 ## Overview
 
