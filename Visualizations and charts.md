@@ -6,7 +6,7 @@ This section showcases the various visualizations and charts generated from the 
 
 ## Dashboard
 
-![Expense Dashboard](https://i.imgur.com/hDL7t8t.gifv)
+![Expense Dashboard](https://i.imgur.com/hDL7t8t.gif)
 
 The dashboard presents a comprehensive overview of key expense metrics and trends. It includes the following visualizations:
 
