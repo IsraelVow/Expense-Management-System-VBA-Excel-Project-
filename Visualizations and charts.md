@@ -5,8 +5,7 @@ As a professional data analyst owning this project, I would display the visualiz
 This section showcases the various visualizations and charts generated from the Expense Management System dataset. The visualizations provide valuable insights into the organization's expenses, trends, and patterns.
 
 ## Dashboard
-
-![Expense Dashboard](https://i.imgur.com/hDL7t8t.gif)
+[View Dashboard](https://imgur.com/hDL7t8t.gifv)
 
 The dashboard presents a comprehensive overview of key expense metrics and trends. It includes the following visualizations:
 
