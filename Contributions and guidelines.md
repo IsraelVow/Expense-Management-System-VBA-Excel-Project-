@@ -62,7 +62,7 @@ There are various ways you can contribute to the project:
 
 ## Note
 
-By contributing to this project, you agree that your contributions will be licensed under the project's [LICENSE](MIT License).
+By contributing to this project, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
 
 Your contributions to the Expense Management System are highly valued and appreciated. Let's work together to make the project even better!
 
