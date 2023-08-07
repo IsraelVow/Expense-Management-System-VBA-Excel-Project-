@@ -20,12 +20,12 @@ The Analysis page includes a pivot table that displays the total value of expens
 **System Admin:**
 The System Admin page is dedicated to administrative tasks. It includes buttons for changing passwords, managing permissions, and adjusting system settings. Admins can update user credentials, restrict user access to sensitive information (e.g., Analysis page and Dashboard), and customize the system's background color and Excel menus.
 
-![Interface](https://i.imgur.com/SomeImageLink.png)
+![Interface](https://imgur.com/D8SO5V1.png)
 
 **Interface:**
 The Interface page contains essential company information, such as address, email, website, and phone number. It also lists the departments within the organization for which expenses will be covered (e.g., Clinic, Laboratory, Inpatient). The Interface page provides quick access to other sections of the system, including the Expense Entry Form and the Database (spreadsheet). It serves as the central hub for navigating through different parts of the application.
 
-![Combobox Sheet - Dependent Dropdowns](https://imgur.com/D8SO5V1.png)
+![Combobox Sheet - Dependent Dropdowns](https://imgur.com/YsCIEsY.png)
 
 **Combobox Sheet - Dependent Dropdowns:**
 The Combobox sheet is a critical helper sheet that enables the functionality of dependent dropdowns in the Expense Entry Form. It contains headers for all expense categories, and each row represents the respective expense names related to the corresponding category. The dependent dropdowns in the userform use this sheet to populate the dropdown options dynamically, ensuring that only relevant expense names are displayed based on the selected category.
