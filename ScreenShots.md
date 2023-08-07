@@ -10,7 +10,7 @@ The Expense Entry Form is the user interface of the Expense Management System. U
 **Dashboard:**
 The Dashboard provides a visual overview of expense information using various charts and shapes. Key insights include the overall expense value, average daily expense, largest expense category, most recurring expense, and a comparison of previous year's expenses with the current year. The dashboard uses different chart types, such as donut charts, line charts, and waterfall charts, to highlight expense trends and comparisons. The battery chart provides a quick summary of expense distribution across different categories, and slicing the battery chart shows percentage distribution within each category.
 
-![Analysis - Pivot Table](https://imgur.com/OhmRcE2)
+![Analysis - Pivot Table](https://imgur.com/OhmRcE2.png)
 
 **Analysis - Pivot Table:**
 The Analysis page includes a pivot table that displays the total value of expenses grouped by category and expense name. The pivot table provides a comprehensive view of expense data, allowing users to analyze expenses based on different criteria, such as category and expense name.
