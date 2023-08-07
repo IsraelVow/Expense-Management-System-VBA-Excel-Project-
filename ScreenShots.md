@@ -30,8 +30,6 @@ The Interface page contains essential company information, such as address, emai
 **Combobox Sheet - Dependent Dropdowns:**
 The Combobox sheet is a critical helper sheet that enables the functionality of dependent dropdowns in the Expense Entry Form. It contains headers for all expense categories, and each row represents the respective expense names related to the corresponding category. The dependent dropdowns in the userform use this sheet to populate the dropdown options dynamically, ensuring that only relevant expense names are displayed based on the selected category.
 
-By including the "combobox" sheet in the screenshots, users can gain insights into the mechanism behind the userform's dependent dropdowns and better understand how the Expense Management System simplifies expense data entry through this intuitive feature.
-
 ![Data Source - Dataset Breakdown](https://imgur.com/SI4i9Zf.png)
 
 **Data Source - Dataset Breakdown:**
